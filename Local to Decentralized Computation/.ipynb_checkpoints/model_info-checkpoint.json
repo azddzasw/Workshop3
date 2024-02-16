@@ -1,0 +1,52 @@
+{
+    "models": [
+        {
+            "id": "model_1",
+            "deposit": 850,
+            "accuracy": 0.75,
+            "weight": 0.75
+        },
+        {
+            "id": "model_2",
+            "deposit": 1000,
+            "accuracy": 0.85,
+            "weight": 0.85
+        },
+        {
+            "id": "model_1",
+            "deposit": 850,
+            "accuracy": 0.75,
+            "weight": 0.75
+        },
+        {
+            "id": "model_2",
+            "deposit": 1000,
+            "accuracy": 0.85,
+            "weight": 0.85
+        },
+        {
+            "id": "model_1",
+            "deposit": 900,
+            "accuracy": 0.75,
+            "weight": 0.75
+        },
+        {
+            "id": "model_2",
+            "deposit": 1000,
+            "accuracy": 0.85,
+            "weight": 0.85
+        },
+        {
+            "id": "model_1",
+            "deposit": 950,
+            "accuracy": 0.75,
+            "weight": 0.75
+        },
+        {
+            "id": "model_2",
+            "deposit": 1000,
+            "accuracy": 0.85,
+            "weight": 0.85
+        }
+    ]
+}
